@@ -1,0 +1,23 @@
+{
+  "name": "javascript-test-project",
+  "version": "1.0.0",
+  "description": "\"javascript-test-project\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nimisha-527/Javascript-test-project.git"
+  },
+  "keywords": [
+    "[test",
+    "javascript]"
+  ],
+  "author": "\"nimisha jain\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nimisha-527/Javascript-test-project/issues"
+  },
+  "homepage": "https://github.com/nimisha-527/Javascript-test-project#readme"
+}
